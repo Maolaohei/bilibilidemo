@@ -1,24 +1,19 @@
-# bilibilidemo
+# #哔哩哔哩Demo
 
-## Project setup
-```
-npm install
-```
+使用Vue3脚手架开发
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+本程序使用的API数据归哔哩哔哩所有
 
-### Compiles and minifies for production
-```
-npm run build
-```
+仅供数据展示使用
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 首页
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![bili-sc01](README.assets/bili-sc01.png)
+
+# 详情页
+
+![bili-sc02](README.assets/bili-sc02.png)
+
+## 项目结构
+
+![项目结构](README.assets/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
